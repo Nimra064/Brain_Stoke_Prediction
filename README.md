@@ -15,7 +15,7 @@ I know still low, but this model showed the highest performance among all models
 
 In terms of model estimation, you can try my previous notebook: My notebook <r>
 
-**## Context: **
+## Context: 
 <br>
 A stroke is a medical condition in which poor blood flow to the brain causes cell death. There are two main types of stroke: ischemic, due to lack of blood flow, and hemorrhagic, due to bleeding. Both cause parts of the brain to stop functioning properly. Signs and symptoms of a stroke may include an inability to move or feel on one side of the body, problems understanding or speaking, dizziness, or loss of vision to one side. Signs and symptoms often appear soon after the stroke has occurred. If symptoms last less than one or two hours, the stroke is a transient ischemic attack (TIA), also called a mini-stroke. A hemorrhagic stroke may also be associated with a severe headache. The symptoms of a stroke can be permanent. Long-term complications may include pneumonia and loss of bladder control. <br>
 
@@ -23,7 +23,7 @@ The main risk factor for stroke is high blood pressure. Other risk factors inclu
 
 Prevention includes decreasing risk factors, surgery to open up the arteries to the brain in those with problematic carotid narrowing, and warfarin in people with atrial fibrillation. Aspirin or statins may be recommended by physicians for prevention. A stroke or TIA often requires emergency care. An ischemic stroke, if detected within three to four and half hours, may be treatable with a medication that can break down the clot. Some hemorrhagic strokes benefit from surgery. Treatment to attempt recovery of lost function is called stroke rehabilitation, and ideally takes place in a stroke unit; however, these are not available in much of the world. <br>
 
-##Attribute Information <br>
+# Attribute Information <br>
 
 1) gender: "Male", "Female" or "Other" <br>
 2) age: age of the patient <br>
